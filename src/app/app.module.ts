@@ -13,6 +13,7 @@ import {MatTabsModule} from '@angular/material/tabs';
 import {MatCardModule} from '@angular/material/card';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -33,6 +34,7 @@ import {MatCardModule} from '@angular/material/card';
 
 
   ],
+  
   providers: [],
   bootstrap: [AppComponent]
 })
